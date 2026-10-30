@@ -175,7 +175,7 @@ country_event = { ## Leader remove Irrational Trait ##
 	immediate = {
 		random_unit_leader = { 
 			limit = { has_trait = irrational_personality_trait } 
-			set_character_flag = random_event_remove_fainthearted_flag 
+			set_character_flag = random_event_remove_irrational_flag 
 		}
 		set_country_flag = { flag = random_event_military_country_flag days = 720  }
 	}
