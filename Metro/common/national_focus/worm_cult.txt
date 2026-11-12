@@ -894,6 +894,7 @@ focus_tree = {
 			custom_effect_tooltip = GWC_kidnapping
 			custom_effect_tooltip = available_political_advisor
 			show_ideas_tooltip = GWC_boogeyman
+			set_country_flag = GWC_kidnap_their_children
 		}
 		ai_will_do = {
 			factor = 2
